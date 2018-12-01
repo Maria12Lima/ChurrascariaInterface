@@ -1,0 +1,21 @@
+#imagem_menu{
+    height: 250px;
+    width: 270px;
+}
+
+#menu_topo:hover{
+    cursor: pointer;
+    text-decoration: red;
+    font-size: 18px;
+}
+#redesocial {
+    height: 20px;
+    width: 20px;
+    margin-right: 3px;
+}
+
+#logomarca {
+    width: 102px; 
+    height: 102px;
+}
+
